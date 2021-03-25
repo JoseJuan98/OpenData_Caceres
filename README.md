@@ -5,8 +5,7 @@
 
 ## Technologies used
 - C++/C, Eclipse IDE
-
-The purpose of this project is to extract the data of the city of Caceres from the platform OpenData to manage it with data structures that have been created by me and my project partner with the goal of analyze this data and apply the fundaments of Object Oriented Programming that we have seen in this subject.
+I designed and implemented a project in C/C++ to extract the data of the city of Cáceres from the platform OpenData, storing it in data structures created from scratch by my project partner and I with the goal of analyzing it and applying the fundamentals of Object Oriented Programming.
 
 There is a copy of the file used in this repository.
 
